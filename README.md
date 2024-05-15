@@ -1,6 +1,6 @@
 ## Deployed Link: https://ecommerce-next-js-admin-ten.vercel.app/
 
-![Dashboard](image.png)
+![Dashboard](image-3.png)
 
 ![collections](image-1.png)
 
