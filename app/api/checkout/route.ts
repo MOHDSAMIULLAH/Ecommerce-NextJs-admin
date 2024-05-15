@@ -4,8 +4,7 @@ import { stripe } from "@/lib/stripe";
 const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
-  "Access-Control-Allow-Headers": "Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers",
-  "Access-Control-Allow-Credentials": "true",
+  "Access-Control-Allow-Headers": "Content-Type, Authorization",
 };
 
 export async function OPTIONS() {
